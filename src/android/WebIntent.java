@@ -1,4 +1,4 @@
-package com.borismus.webintent;
+package com.lizardsc.webintent;
 
 import java.util.HashMap;
 import java.util.Map;
